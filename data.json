@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "numero": "T1",
+        "ubicacion": "A1",
+        "nombre": "Muestra local T1",
+        "modelo": "SM-A566E A56",
+        "medios": "WPI, UF1, UF2",
+        "imagen": "images/SM-A566.jpg"
+    },
+    {
+        "id": 2,
+        "numero": "T2",
+        "ubicacion": "A2",
+        "nombre": "Muestra local T2",
+        "modelo": "SM-A366E A36",
+        "medios": "LCIA, LCIA CAM",
+        "imagen": "images/SM-A366.jpg"
+    },
+    {
+        "id": 3,
+        "numero": "T3",
+        "ubicacion": "A3",
+        "nombre": "Muestra local T3",
+        "modelo": "SM-S938 PA3 S25",
+        "medios": "RF, VISION",
+        "imagen": "images/SM-S936.jpg"
+    }
+]
