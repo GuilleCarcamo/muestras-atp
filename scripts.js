@@ -30,9 +30,9 @@ function renderCards(productosFiltrados) {
                         <img src="${producto.imagen}" class="card-img-top" alt="${producto.nombre}">
                         <div class="card-body">
                             <h5 class="card-title">${producto.nombre}</h5>
+                            <p class="card-text"><strong>Modelo:</strong> ${producto.modelo}</p>
                         </div>
                         <ul class="list-group list-group-flush">
-                            <li class="list-group-item"><strong>Modelo:</strong> ${producto.modelo}</li>
                             <li class="list-group-item"><strong>Número:</strong> ${producto.numero}</li>
                             <li class="list-group-item"><strong>Ubicación:</strong> ${producto.ubicacion}</li>
                             <li class="list-group-item"><strong>Medios:</strong> ${producto.medios}</li>
