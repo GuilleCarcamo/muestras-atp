@@ -15,7 +15,7 @@
         "nombre": "Muestra local T2",
         "modelo": "SM-A366E A36",
         "medios": "LCIA, LCIA CAM",
-        "imagen": "images/SM-A366.jpg"
+        "imagen": "../images/SM-A366.jpg"
     },
     {
         "id": 3,
