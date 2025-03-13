@@ -1,29 +1,266 @@
 [
     {
         "id": 1,
-        "numero": "T1",
-        "ubicacion": "A1",
-        "nombre": "Muestra local T1",
+        "numero": "C1",
+        "imei": "350095130005156",
+        "ubicacion": "A4",
+        "bateria": "", 
+        "nombre": "Muestra Corea C1",
         "modelo": "SM-A566E A56",
-        "medios": "WPI, UF1, UF2",
-        "imagen": "images/SM-A566.jpg"
+        "medios": "WPI OK",
+        "imagen": "images/C1.jpg" 
     },
     {
         "id": 2,
-        "numero": "T2",
-        "ubicacion": "A2",
-        "nombre": "Muestra Corea T2",
-        "modelo": "SM-A366E A36",
-        "medios": "LCIA, LCIA CAM",
-        "imagen": "images/SM-A366.jpg"
+        "numero": "C2",
+        "imei": "",
+        "ubicacion": "B3",
+        "bateria": "", 
+        "nombre": "Muestra Corea C2",
+        "modelo": "SM-A346E",
+        "medios": "WPT PS OK",
+        "imagen": "images/C2 SM-A346 F.jpg" 
     },
     {
         "id": 3,
-        "numero": "T3",
-        "ubicacion": "A3",
-        "nombre": "Muestra local T3",
-        "modelo": "SM-A568E A58",
-        "medios": "RF, VISION",
-        "imagen": "images/SM-S936.jpg"
+        "numero": "C3",
+        "imei": "",
+        "ubicacion": "B4",
+        "bateria": "", 
+        "nombre": "Muestra Corea C3",
+        "modelo": "SM-A346E",
+        "medios": "WPT PS NG",
+        "imagen": "images/C3 SM-A346 F.jpg" 
+    },
+
+    {
+        "id": 4,
+        "numero": "C4",
+        "imei": "353117550104835",
+        "ubicacion": "B5",
+        "bateria": "", 
+        "nombre": "Muestra Corea C4",
+        "modelo": "SM-A346B",
+        "medios": "WPI NG",
+        "imagen": "images/C4 SM-A346 F.jpg" 
+    },
+
+    {
+        "id": 5,
+        "numero": "C5",
+        "imei": "353117550104926",
+        "ubicacion": "B6",
+        "bateria": "", 
+        "nombre": "Muestra Corea C5",
+        "modelo": "SM-A346B",
+        "medios": "WPI NG",
+        "imagen": "images/C5 SM-A346 F.jpg" 
+    },
+
+    {
+        "id": 6,
+        "numero": "C7",
+        "imei": "",
+        "ubicacion": "C7",
+        "bateria": "", 
+        "nombre": "Muestra Corea C7",
+        "modelo": "SM-A546E",
+        "medios": "WPT PS OK",
+        "imagen": "images/C7 SM-A546 F.jpg" 
+    },
+
+    {
+        "id": 7,
+        "numero": "C8",
+        "imei": "",
+        "ubicacion": "C8",
+        "bateria": "", 
+        "nombre": "Muestra Corea C8",
+        "modelo": "SM-A546E",
+        "medios": "WPT PS NG",
+        "imagen": "images/C8 SM-A546 F.jpg" 
+    },
+    
+    {
+        "id": 8,
+        "numero": "C9",
+        "imei": "",
+        "ubicacion": "C9",
+        "bateria": "", 
+        "nombre": "Muestra Corea C9",
+        "modelo": "SM-A546E",
+        "medios": "WPT PS NG",
+        "imagen": "images/C9 SM-A546 F.jpg" 
+    },  
+    
+    {
+        "id": 9,
+        "numero": "C10",
+        "imei": "350756480117848",
+        "ubicacion": "C10",
+        "bateria": "", 
+        "nombre": "Muestra Corea C10",
+        "modelo": "SM-A546B",
+        "medios": "WPI OK",
+        "imagen": "images/C10 SM-A546 F.jpg" 
+    },
+    
+    {
+        "id": 10,
+        "numero": "C11",
+        "imei": "350756480106379",
+        "ubicacion": "C11",
+        "bateria": "", 
+        "nombre": "Muestra Corea C11",
+        "modelo": "SM-A546B",
+        "medios": "WPI NG",
+        "imagen": "images/C11 SM-A546 F.jpg" 
+    },
+
+    {
+        "id": 11,
+        "numero": "C12",
+        "imei": "",
+        "ubicacion": "D2",
+        "bateria": "", 
+        "nombre": "Muestra Corea C12",
+        "modelo": "SM-A546B",
+        "medios": "",
+        "imagen": "images/C12 SM-A546 F.jpg" 
+    },
+    
+    {
+        "id": 12,
+        "numero": "T4",
+        "imei": "",
+        "ubicacion": "A5",
+        "bateria": "GH43-05147F+AA1X328HS+13137C", 
+        "nombre": "Muestra Local T4",
+        "modelo": "SM-A556E",
+        "medios": "WPT PS OK, SUBPBA",
+        "imagen": "images/T4 SM-A556 F.jpg" 
+    },
+
+    {
+        "id": 13,
+        "numero": "T5",
+        "imei": "353682263013110",
+        "ubicacion": "A7",
+        "bateria": "", 
+        "nombre": "Muestra Local T5",
+        "modelo": "SM-A356",
+        "medios": "WPI OK, RF TEST ,LCIA ,UF2 ,PD-CHARGE ,LCIA-CAM ,MULTICAL ,AUDIO ,VISION",
+        "imagen": "images/T5 SM-A356 F.jpg" 
+    },
+    
+    {
+        "id": 14,
+        "numero": "T6",
+        "imei": "",
+        "ubicacion": "A8",
+        "bateria": "GH43-05147F+AA1X307GS+06982C", 
+        "nombre": "Muestra Local T6",
+        "modelo": "SM-A356E",
+        "medios": "WPT PS OK, ",
+        "imagen": "images/T6 SM-A356 F.jpg" 
+    },
+
+    {
+        "id": 15,
+        "numero": "T8",
+        "imei": "358958330331262",
+        "ubicacion": "A6",
+        "bateria": "", 
+        "nombre": "Muestra Local T7",
+        "modelo": "SM-A556M",
+        "medios": "",
+        "imagen": "images/T8 SM-A556M F.jpg" 
+    },
+
+    {
+        "id": 16,
+        "numero": "T9",
+        "imei": "359706686078881",
+        "ubicacion": "A10",
+        "bateria": "", 
+        "nombre": "Muestra Local T9",
+        "modelo": "SM-A065M",
+        "medios": "RF TEST, LCIA, LCIA-CAM, AUDIO",
+        "imagen": "images/T9 SM-A065M F.jpg" 
+    },
+
+    {
+        "id": 17,
+        "numero": "T10",
+        "imei": "",
+        "ubicacion": "B1",
+        "bateria": "HQ70501001CX2473027189DS01", 
+        "nombre": "Muestra Local T10",
+        "modelo": "SM-A065M",
+        "medios": "",
+        "imagen": "images/T10 SM-A065M F.jpg" 
+    },
+
+    {
+        "id": 18,
+        "numero": "T27",
+        "imei": "359036990153307",
+        "ubicacion": "D9",
+        "bateria": "GH43-05244A+AA1XA14CS+21189C", 
+        "nombre": "Muestra Local T27",
+        "modelo": "SM-A166",
+        "medios": "",
+        "imagen": "images/T27 SM-A166 F.jpg" 
+    },
+    
+    {
+        "id": 19,
+        "numero": "T28",
+        "imei": "359036990158264",
+        "ubicacion": "D10",
+        "bateria": "", 
+        "nombre": "Muestra Local T28",
+        "modelo": "SM-A166",
+        "medios": "",
+        "imagen": "images/T28 SM-A166 F.jpg" 
+    },
+    
+    {
+        "id": 20,
+        "numero": "T29",
+        "imei": "350896384103070",
+        "ubicacion": "E1",
+        "bateria": "GH43-05244A+AA1XC03DS+36200C", 
+        "nombre": "Muestra Local T29",
+        "modelo": "SM-A165",
+        "medios": "",
+        "imagen": "images/T29 SM-A165 F.jpg" 
+    },
+
+    {
+        "id": 21,
+        "numero": "T30",
+        "imei": "",
+        "ubicacion": "E2",
+        "bateria": "GH43-05244A+AA1XC03CS+30060C", 
+        "nombre": "Muestra Local T30",
+        "modelo": "SM-A165",
+        "medios": "SUBPBA",
+        "imagen": "images/T30 SM-A165 F.jpg" 
+    },
+    
+    {
+        "id": 22,
+        "numero": "T32",
+        "imei": "354581530357723",
+        "ubicacion": "E3",
+        "bateria": "GH43-05257A+DL1Y120AS+11597N", 
+        "nombre": "Muestra Local T32",
+        "modelo": "SM-A566",
+        "medios": "WPI OK ,TEST INTEGRADO ,RF TEST ,LCIA ,UNIFICATION 2 ,PD-CHARGE ,LCIA-CAM ,MULTICAL ,AUDIO ",
+        "imagen": "images/T32 SM-A566 F.jpg" 
     }
+
+
+    
 ]
